@@ -33,3 +33,31 @@ body {
     padding-right: 5px;
     border: solid 5px  rgb(203, 203, 198);
 } 
+
+.contributepagecontent1 {
+    background-color: #D9D9D9;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.contributepagecontent2 {
+    background-color: #D9D9D9;
+    width: 95%;
+
+}
+
+h2,
+h1 {
+    color: white;
+}
+
+.contributepagecontent3 {
+    background-color: #D9D9D9;
+    width: 95%;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+}
