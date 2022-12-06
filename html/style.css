@@ -25,17 +25,18 @@ body {
     margin-bottom: 5px;
 }
 
+.heroimage {
+    background-image: url("../images/mainhero.jpg");
+}
 
-.NavLinks {
-    color: green;
-    background-color: rgb(203, 203, 198);
-    padding-left: 5px;
-    padding-right: 5px;
-    border: solid 5px  rgb(203, 203, 198);
-    border-radius: 50px;
-    height: 30px;
-    text-align: center;
-} 
+.heightRules {
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.mainpagecontent1 {
+
+}
 
 .improvepagecontent1 {
     background-image: image();
@@ -72,9 +73,30 @@ body {
 
 }
 
-h2,
-h1 {
+.whiteText {
     color: white;
+}
+
+.blueText {
+    color: blue;
+}
+
+.greenText {
+    color: green;
+}
+
+.blueBackground {
+    background-color: lightblue;
+}
+
+.NavLinks {
+    color: green;
+    background-color: rgb(203, 203, 198);
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid 5px  rgb(203, 203, 198);
+    border-radius: 50px;
+    height: 30px;
 }
 
 .contributepagecontent3 {
