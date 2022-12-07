@@ -62,9 +62,10 @@ body {
 
 .contributepagecontent1 {
     background-color: #D9D9D9;
-    width: 50%;
+     width: 60%;
     display: flex;
     justify-content: center;
+    font-weight: bolder;
 }
 
 .contributepagecontent2 {
@@ -107,4 +108,17 @@ body {
 footer {
     display: flex;
     flex-direction: row;
+}
+
+.logo {
+    width: 0%;
+    max-width: 20%;
+}
+
+.herocontribute{
+    background-image: url(../images/contributehero.jpg);
+    height: 100vh;
+    width: 200vh;
+    
+
 }
