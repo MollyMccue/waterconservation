@@ -165,7 +165,9 @@ body {
 footer {
     display: flex;
     flex-direction: row;
+    background-color: rgb(120, 143, 170);
 }
+
 
 .logo {
     width: 0%;
@@ -199,3 +201,22 @@ footer {
     background-size: cover;
 }
 
+.importanceimg {
+    display: flex;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.mainpagecontentp-1 {
+    margin-left: 50%;
+}
+
+.mainpagecontentp-2 {
+    margin-right: 50%;
+}
+
+.humanityimg {
+    display: flex;
+    height: 300px;
+    border-radius: 50%;
+}
